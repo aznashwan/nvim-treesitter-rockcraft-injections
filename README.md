@@ -14,6 +14,7 @@ namely:
 * `override-stage`
 * `override-prime`
 
+![screenshot](images/screenshot.png)
 
 ### Installation:
 
