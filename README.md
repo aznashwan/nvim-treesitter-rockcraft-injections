@@ -9,6 +9,7 @@ Inject bash syntax highlighting for the various script fields in
 [`rockcraft`](https://github.com/canonical/rockcraft) YAML specs as
 [defined here](https://documentation.ubuntu.com/rockcraft/en/latest/reference/rockcraft.yaml/),
 namely:
+* `overlay-script`
 * `override-pull`
 * `override-build`
 * `override-stage`
